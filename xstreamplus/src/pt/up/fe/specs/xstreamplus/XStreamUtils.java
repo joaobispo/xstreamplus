@@ -11,11 +11,11 @@
  * specific language governing permissions and limitations under the License. under the License.
  */
 
-package org.specs.xstreamplus;
+package pt.up.fe.specs.xstreamplus;
 
 import java.io.File;
 
-import org.specs.library.IoUtils;
+import pt.up.fe.specs.library.IoUtils;
 
 import com.thoughtworks.xstream.XStream;
 
